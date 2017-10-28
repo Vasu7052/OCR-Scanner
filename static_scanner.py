@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import pytesseract  
-from PIL import Image
+from PIL import Image  
 
 # Path of working folder on Disk
 src_path = "images/"
