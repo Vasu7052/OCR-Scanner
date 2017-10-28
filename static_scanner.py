@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import pytesseract
+import pytesseract  
 from PIL import Image
 
 # Path of working folder on Disk
